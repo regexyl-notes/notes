@@ -1,0 +1,11 @@
+- Thoughts
+	- Integration with Google Cal - no, it'll be hard to arrange blocks of time that are allocated according to the duration of completing each task. Making this plugin as atomic as possible would be neat if I want others to use it to.
+	- 2-way or 1-way?
+		- 2-way would be great, but 1-way for MVP would be sufficient
+	- API pricing
+		- ["The Google Tasks API has a courtesy limit of 50,000 queries per day."](https://developers.google.com/tasks/pricing)
+		- If I have 100 tasks in a day, I'll have 500 API calls per task. Looks like it's enough.
+	- Throttle API calls - only create/update/delete task after 5s of no changes to it
+	- MVP
+		- Subscribes to only one task list
+		-
