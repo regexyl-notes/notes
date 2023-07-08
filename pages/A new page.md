@@ -1,1 +1,2 @@
 - This is a new page to test sync with git
+- This is another change
