@@ -9,7 +9,7 @@
 		  function handleChange(e) {
 		    // This won't work because the event object gets reused.
 		    setTimeout(() => {
-		      console.log(e.target.value); // Too late!
+		      console.log(e.target.value); // Too late, function would have been exited
 		    }, 100);
 		  }
 		  ```
