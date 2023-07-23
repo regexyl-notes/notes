@@ -1,0 +1,1 @@
+- Event handlers are passed instances of `SyntheticEvent`, a
