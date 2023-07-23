@@ -18,3 +18,4 @@
 	  :LOGBOOK:
 	  CLOCK: [2023-07-23 Sun 15:12:18]--[2023-07-23 Sun 15:12:19] =>  00:00:01
 	  :END:
+	- They've mentioned something along the lines of event pooling not living up to performance expectations in modern browsers -

@@ -2,8 +2,7 @@
 - Differences between React and Preact
 	- Main difference: Preact does not implement a [[synthetic event system]] unlike React.
 		- Preact uses the browser's standard `addEventListener` to register event handlers, so naming conventions emulate that of JS/the DOM.
-	- Events don't bubble up through
-	-
+	- Events don't bubble up through `<Portal>` components
 - Concepts
 	- VNode
 		- Seems to imply that there's different types of VNodes, see src/create-element.js L. 30 - "If a Component VNode, check for and apply defaultProps".
