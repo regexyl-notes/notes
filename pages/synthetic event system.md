@@ -14,4 +14,4 @@
 		  }
 		  ```
 - Why was event pooling removed from React 17?
--
+	- TODO Read this [React PR](https://github.com/facebook/react/pull/18969) (likely related to the removal of event pooling) and [this issue from 2016 - Get rid of pooling in synthetic event system](https://github.com/facebook/react/issues/6190)
