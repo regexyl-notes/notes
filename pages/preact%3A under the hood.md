@@ -1,3 +1,4 @@
+- Version 10.16.0
 - render
 	- `render`
 		- Questions
@@ -5,3 +6,4 @@
 			- ?>> Why do you need to obtain reference to the previous tree if you want to be able to support calling `render()` multiple times on the same DOM node? (L. 23)
 			- ?>> What exactly is a tree? Is it a VDom? Or is it made up of VNodes? Is there even a difference?
 		- VNode is different from VDom
+		- Fragment: `Fragment = props.children` (L. 88 in src/create-element.js)
