@@ -1,4 +1,6 @@
 - Event handlers are passed instances of `SyntheticEvent`, a cross-browser wrapper around the browser's native event.
 - `SyntheticEvent` has the same interface as the browser's native event, including `stopPropagation()` and `preventDefault()`.
 - Why is this implemented?
-	- The synthetic events may
+	- The synthetic events may not directly map to the browser's native events.
+	- E.g. React's `onMouseLeave` points to a native `mouseout` event (which can be seen if you access `event.nativeEvent`).
+	-
