@@ -1,6 +1,8 @@
 - Version 10.16.0
-- Main differences between React and Preact
-	- Preact does not implement a [[synthetic event system]] unlike React
+- Differences between React and Preact
+	- Main difference: Preact does not implement a [[synthetic event system]] unlike React.
+		-
+	-
 	-
 - Concepts
 	- VNode
