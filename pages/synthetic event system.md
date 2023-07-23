@@ -4,3 +4,4 @@
 - E.g. React's `onMouseLeave` points to a native `mouseout` event (which can be seen if you access `event.nativeEvent`).
 - Why is this implemented?
 	- Provides consistency by normalizing events across browsers and systems so that they have the same properties.
+	-
