@@ -1,4 +1,6 @@
 - Version 10.16.0
+- VNode
+	- Seems to imply that there's different types of VNodes, see src/create-element.js L. 30 - "If a Component V
 - render
 	- `render`
 		- Questions
