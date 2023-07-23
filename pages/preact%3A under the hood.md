@@ -29,7 +29,7 @@
 		- Can consist of a VNode, as seen from `createElement` returning a value of `createVNode`
 	- Component
 		- The level in React which
-		- In Preact: a function (or basically instantiated class) which stores `.props`
+		- In Preact: a function (or basically instantiated class) which stores `.props` and `.context`, also providing `setState()` and `forceUpdate()` which triggers rerendering
 - render
 	- `render`
 		- Questions
