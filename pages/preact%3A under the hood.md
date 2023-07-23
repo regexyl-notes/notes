@@ -1,3 +1,4 @@
 - render
 	- `render`
-		- ??
+		- ?>> What's hydration mode? (L. 21 in src/render.js)
+		-
