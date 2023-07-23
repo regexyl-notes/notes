@@ -14,3 +14,4 @@
 		  }
 		  ```
 - Why was event pooling removed from React 17?
+-
