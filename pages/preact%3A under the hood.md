@@ -27,6 +27,8 @@
 		  ```
 	- Element
 		- Can consist of a VNode, as seen from `createElement` returning a value of `createVNode`
+	- Component
+		-
 - render
 	- `render`
 		- Questions
