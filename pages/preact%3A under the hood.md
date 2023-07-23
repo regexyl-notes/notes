@@ -7,3 +7,4 @@
 			- ?>> What exactly is a tree? Is it a VDom? Or is it made up of VNodes? Is there even a difference?
 		- VNode is different from VDom
 		- Fragment: `Fragment = props.children` (L. 88 in src/create-element.js)
+-
