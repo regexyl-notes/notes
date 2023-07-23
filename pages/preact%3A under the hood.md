@@ -1,6 +1,6 @@
 - render
 	- `render`
-		- ?>> What's hydration mode? (L. 21 in src/render.js)
-		- ?>> Why do you need to obtain reference to the previous tree if you want to be able to support calling `render()` multiple times on the same DOM node? (L. 23)
-		-
-		-
+		- Questions
+			- ?>> What's hydration mode? (L. 21 in src/render.js)
+			- ?>> Why do you need to obtain reference to the previous tree if you want to be able to support calling `render()` multiple times on the same DOM node? (L. 23)
+		- VNode is different from VDom
