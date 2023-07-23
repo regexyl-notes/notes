@@ -1,4 +1,5 @@
 - Version 10.16.0
+- Main D
 - Concepts
 	- VNode
 		- Seems to imply that there's different types of VNodes, see src/create-element.js L. 30 - "If a Component VNode, check for and apply defaultProps".
