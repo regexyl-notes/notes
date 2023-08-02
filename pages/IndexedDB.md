@@ -1,2 +1,4 @@
 - A Web API for storing large data structures within browsers and indexing them for high performance searching.
--
+- It is a transactional database system like SQL-based RDBMS.
+- Uses JS objects rather than fixed column tables to store data.
+- https://developer.mozilla.org/en-US/docs/Glossary/IndexedDB
