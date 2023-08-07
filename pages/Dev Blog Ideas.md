@@ -1,2 +1,2 @@
-- How React uses data structures and algorithms in its scheduler package
+- [[How React uses data structures and algorithms in its scheduler package]]
 	- [Source code](https://github.com/facebook/react/tree/main/packages/scheduler/src)
