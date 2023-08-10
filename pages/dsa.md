@@ -9,11 +9,10 @@
 	- #tries 🔴
 	- #heap 🔴
 	- #backtracking 🔴
-	- [[Intervals]] 🟠
-	- [[Greedy]] 🟠
-	- [[Graphs]] 🟠
-	- [[Advanced Graphs]] 🟠
-	- [[1D DP]] 🟠
+	- #intervals 🟠
+	- #greedy 🟠
+	- #graphs 🟠
+	- #1-dp 🟠
 	- [[2D DP]] 🔴
 	- [[Bit Manipulation]] 🟠
 	- [[Math and Geometry]]
