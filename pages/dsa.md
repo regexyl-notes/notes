@@ -2,9 +2,9 @@
 	- #arrays
 	- #two-pointers
 	- #stack
-	- [[Binary Search]] 🔴
-	- [[Sliding Window]]
-	- [[Linked List]] 🟠
+	- #binary-search 🔴
+	- #sliding-window
+	- #linked-lists 🟠
 	- [[Trees]] 🟠
 	- [[Tries]] 🔴
 	- [[Heap (Priority Queue)]] 🔴
