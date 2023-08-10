@@ -7,7 +7,7 @@
 	- [[Linked List]] 🟠
 	- [[Trees]] 🟠
 	- [[Tries]] 🔴
-	- [[Heap/Priority Queue]] 🔴
+	- [[Heap (Priority Queue)]] 🔴
 	- [[Backtracking]] 🔴
 	- [[Intervals]] 🟠
 	- [[Greedy]] 🟠
