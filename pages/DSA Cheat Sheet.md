@@ -1,0 +1,2 @@
+- If the problem is about X, think of Y.
+	-
