@@ -13,9 +13,9 @@
 	- #greedy 🟠
 	- #graphs 🟠
 	- #1-dp 🟠
-	- [[2D DP]] 🔴
-	- [[Bit Manipulation]] 🟠
-	- [[Math and Geometry]]
+	- #2-dp 🔴
+	- #bit-manipulation 🟠
+	- #math-and-geometry
 - Legend
 	- 🟢 doing swell
 	- 🟠 needs *some* work on
