@@ -1,7 +1,7 @@
 - Topics
 	- #arrays
-	- [[Two Pointers]] #two-pointers
-	- [[Stack]] #stack
+	- #two-pointers
+	- #stack
 	- [[Binary Search]] 🔴
 	- [[Sliding Window]]
 	- [[Linked List]] 🟠
