@@ -5,10 +5,10 @@
 	- #binary-search 🔴
 	- #sliding-window
 	- #linked-lists 🟠
-	- [[Trees]] 🟠
-	- [[Tries]] 🔴
-	- [[Heap (Priority Queue)]] 🔴
-	- [[Backtracking]] 🔴
+	- #trees 🟠
+	- #tries 🔴
+	- #heap 🔴
+	- #backtracking 🔴
 	- [[Intervals]] 🟠
 	- [[Greedy]] 🟠
 	- [[Graphs]] 🟠
