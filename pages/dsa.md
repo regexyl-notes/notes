@@ -1,7 +1,7 @@
 - Topics
-	- [[Arrays and Hashing]]
-	- [[Two Pointers]]
-	- [[Stack]]
+	- #arrays
+	- [[Two Pointers]] #two-pointers
+	- [[Stack]] #stack
 	- [[Binary Search]] 🔴
 	- [[Sliding Window]]
 	- [[Linked List]] 🟠
