@@ -1,0 +1,2 @@
+- Advanced algorithms
+	- Binary lifting - works on a binary tree to get access to
