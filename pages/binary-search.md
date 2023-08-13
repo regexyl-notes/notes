@@ -4,7 +4,7 @@
 		- How it works:
 		- ```python
 		  class TreeAncestor:
-		    steps = 15 # O(log(n)) of the number of nodes in the binary tree
+		    steps = 15 # O(log(n)) of the number of nodes in the binary tree, aka height of tree
 		    def __init__(self, n: int, parent: List[int]):
 		      # 
 		  ```
