@@ -17,5 +17,8 @@
 		      # While there's still more jumps to go + we have not reached a dead end yet
 		      while k > 0 and x > - 1:
 		        # Try to hop as much as possible using x, if not decrement x by 1
-		        # To hop as much as possible, you can use 
+		        # To hop as much as possible, you can use the bitwise left shift operator
+		        # and see if k >= 1
+		      
+		      return kthAncestor
 		  ```
