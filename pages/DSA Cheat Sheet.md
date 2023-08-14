@@ -1,2 +1,4 @@
 - If the problem is about X, think of Y.
 	- Choosing the smallest or largest among a group of numbers --> #
+- Python-related notes
+	-
