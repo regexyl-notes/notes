@@ -1,0 +1,23 @@
+- Topics
+	- [[Arrays and Hashing]]
+	- [[Two Pointers]]
+	- [[Stack]]
+	- [[Binary Search]] 🔴
+	- [[Sliding Window]]
+	- [[Linked List]] 🟠
+	- [[Trees]] 🟠
+	- [[Tries]] 🔴
+	- [[Heap/Priority Queue]] 🔴
+	- [[Backtracking]] 🔴
+	- [[Intervals]] 🟠
+	- [[Greedy]] 🟠
+	- [[Graphs]] 🟠
+	- [[Advanced Graphs]] 🟠
+	- [[1D DP]] 🟠
+	- [[2D DP]] 🔴
+	- [[Bit Manipulation]] 🟠
+	- [[Math and Geometry]]
+- Legend
+	- 🟢 doing swell
+	- 🟠 needs *some* work on
+	- 🔴 needs *a lot of* work out
