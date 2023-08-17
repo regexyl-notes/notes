@@ -1,0 +1,2 @@
+- Build my own ORM
+	- Can take [Typeorm](https://github.com/typeorm/typeorm/) as a reference
