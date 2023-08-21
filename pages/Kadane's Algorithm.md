@@ -1,0 +1,3 @@
+- Common problem: Maximum Subarray
+- To calculate a contiguous subarray with the highest sum,
+- ![Kadane's Algorithm — (Dynamic Programming) — How and Why does it Work? | by  Rohit Singhal | Medium](https://miro.medium.com/v2/resize:fit:676/1*UrQhblF8B-6QoEC6E7kWow.png)
