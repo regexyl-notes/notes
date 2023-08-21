@@ -2,5 +2,6 @@
 	- Choosing the smallest or largest among a group of numbers --> #heap
 	- Directed graph with edges (e.g. Course Schedule) --> Topological sorting (i.e. Kahn's algorithm - start with the nodes that have no incoming edges, DFS - DFS search on each node in arbitrary order)
 	- [[Kadane's Algorithm]]
+	- Word search algorithms --> KMP algorithm #todo
 - Python-related notes
 	- Addition and subtraction take higher precedence to bitwise left and right shifts. (refer to this page [for full table](https://www.scaler.com/topics/operator-precedence-in-python/)), e.g. `1 << numOfKeys - 1` is different from `(1 << numOfKeys) - 1`
