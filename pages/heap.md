@@ -2,6 +2,7 @@
 - Time complexities
 	- The initialization of a heap of size m usually takes `O(mlog(m))` time, but in Python, it does it in linear time.
 - Python syntax
+	- Max heap by default - if you want a min-heap, then convert all values into < 0.
 	- ```python
 	  import heapq
 	  heap = heapq.heapify(array)
