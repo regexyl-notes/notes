@@ -20,7 +20,6 @@
 	- The difference between BFS - aka queue - and backtracking is in the way past 'seen' nodes are stored. Backtracking (i.e. DFS in this case) stores it in only one location, while BFS requires individual 'seen' locations for each node traversal since you don't want that of the previous node to conflict with the next.
 	- If I have to use BFS, I'll use bit masking instead of a set to store the indices of seen nodes.
 	- BFS
-	  collapsed:: true
 		- ```python
 		  from collections import deque
 		  
