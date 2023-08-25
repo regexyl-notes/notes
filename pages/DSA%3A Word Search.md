@@ -54,7 +54,6 @@
 		      return False
 		  ```
 	- Backtracking (DFS)
-	  collapsed:: true
 		- ```python
 		  def exist(self, board: List[List[str]], word: str) -> bool:
 		      seen = set()
