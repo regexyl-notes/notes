@@ -52,7 +52,7 @@
 :collapsedHeight 0
 :nonce 1688438188689}}
 :block/updated-at 1692974171728} 
-{:block/created-at 1692974171728
+{:block/created-at 1693415119510
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -72,12 +72,12 @@
 :id "75c06d30-1a13-11ee-ad2e-1f7a7c49f118"
 :fontWeight 400
 :noFill false
-:point [184 352]
+:point [136 176]
 :fontSize 20
 :parentId "64a38562-1462-4bc1-aa20-67a1a9bd3499"
-:nonce 1688438138336
+:nonce 1688438138586
 :italic false}}
-:block/updated-at 1692974171728} 
+:block/updated-at 1693415119510} 
 {:block/created-at 1688530443622
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -171,7 +171,7 @@
 :parentId "64a38562-1462-4bc1-aa20-67a1a9bd3499"
 :nonce 1688530441343}}
 :block/updated-at 1688530443622} 
-{:block/created-at 1692974174748
+{:block/created-at 1692974957140
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -188,7 +188,7 @@
 :compact false
 :isAutoResizing true
 :type "logseq-portal"
-:size [709.9119901632464 1127.7655932803427]
+:size [709.9119901632464 2577.265791173424]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -197,8 +197,8 @@
 :point [190.25082881044108 602.8768329199506]
 :parentId "64a38562-1462-4bc1-aa20-67a1a9bd3499"
 :collapsedHeight 0
-:nonce 1688530312715}}
-:block/updated-at 1692974174748} 
+:nonce 1688530312718}}
+:block/updated-at 1692974957140} 
 {:block/created-at 1692974171728
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -267,7 +267,7 @@
 :nonce 1
 :assets []
 :shapes-index ("597abef0-1aea-11ee-ad2e-1f7a7c49f118" "b17723a0-1a13-11ee-ad2e-1f7a7c49f118" "52a860a0-1aea-11ee-ad2e-1f7a7c49f118" "93baae90-1a13-11ee-ad2e-1f7a7c49f118" "75c06d30-1a13-11ee-ad2e-1f7a7c49f118" "98a931b0-1a13-11ee-ad2e-1f7a7c49f118" "12318a10-1aea-11ee-ad2e-1f7a7c49f118" "5eec2db0-1aea-11ee-ad2e-1f7a7c49f118" "597ae600-1aea-11ee-ad2e-1f7a7c49f118" "597ae601-1aea-11ee-ad2e-1f7a7c49f118")}}
-:block/updated-at 1692974174748
+:block/updated-at 1693415119510
 :block/created-at 1688438114240
 :block/type "whiteboard"
 :block/name "dsa whiteboard"
