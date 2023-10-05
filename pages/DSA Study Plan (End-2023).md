@@ -3,6 +3,6 @@
 - Daily Leetcode (1 to 1.5h)
 	- 2 mediums, 1 hard
 	- Topics to drill:
-		- More of #backtracking #binary-search #2-dp
-		-
+		- More of #backtracking #binary-search #2-dp #heap #tries
+		- Slightly less of #greedy #intervals #graphs #1-dp
 	-
