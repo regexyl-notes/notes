@@ -10,4 +10,4 @@
 - Daily Log
 	- [[Oct 5th, 2023]]
 - To come back
-	- TODO Didn't understand [Perfect Square's](https://leetcode.com/problems/perfect-squares/editorial/) example 3 - greedy enumeration.
+	- TODO Didn't understand [Perfect Square's](https://leetcode.com/problems/perfect-squares/editorial/) example 3 - greedy enumeration. Find out how it's faster than approach 2 (DP).
