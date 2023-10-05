@@ -1,4 +1,6 @@
 - Airy Fairy Goals
 	- Be 90% confident that I'm interview-ready by 15 Nov. (Could have been earlier but I'll be traveling a bit, e.g. Changsha 15-29 Oct.)
-- Daily Leetcode
+- Daily Leetcode (1 to 1.5h)
+	- 2 mediums, 1 hard
+	-
 	-
