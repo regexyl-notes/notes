@@ -1,7 +1,7 @@
 - Airy Fairy Goals
 	- Be 90% confident that I'm interview-ready by 15 Nov. (Could have been earlier but I'll be traveling a bit, e.g. Changsha 15-29 Oct.)
 - Granular Goals
-	- When studying for solutions, don't pursue the ones that are
+	- When studying for solutions, don't pursue the ones that are most complicated and give little in return. E.g. for [Perfect Squares](https://leetcode.com/problems/perfect-squares/editorial/) problem, looking at Approach 2: Dynamic Programming is enough.
 - Daily Leetcode (1 to 1.5h)
 	- 2 mediums, 1 hard
 	- Topics to drill:
