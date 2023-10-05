@@ -1,2 +1,3 @@
-- Goals
-	- Be 90% confident that I'm interview-ready by
+- Airy Fairy Goals
+	- Be 90% confident that I'm interview-ready by 15 Nov.
+	-
