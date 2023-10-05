@@ -5,4 +5,5 @@
 	- Topics to drill:
 		- More of #backtracking #binary-search #2-dp #heap #tries
 		- Slightly less of #greedy #intervals #graphs #1-dp
-	-
+- Daily Log
+	- [[Oct 5th, 2023]]
