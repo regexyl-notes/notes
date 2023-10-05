@@ -1,0 +1,2 @@
+- Goals
+	- Be 90% confident that I'm interview-ready by
