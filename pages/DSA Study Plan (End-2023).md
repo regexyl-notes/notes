@@ -8,6 +8,7 @@
 		- More of #backtracking #binary-search #2-dp #heap #tries
 		- Slightly less of #greedy #intervals #graphs #1-dp
 - Daily Log
+	-
 	- [[Oct 5th, 2023]]
 - To come back
 	- TODO Didn't understand [Perfect Square's](https://leetcode.com/problems/perfect-squares/editorial/) example 3 - greedy enumeration. Find out how it's faster than approach 2 (DP).
