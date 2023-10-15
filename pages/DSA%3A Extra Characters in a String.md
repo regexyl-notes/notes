@@ -1,1 +1,2 @@
+- #questions-151023 I mistakenly assumed the following time complexity was O(N^2), but it's actually O(N^3)
 - ![image.png](../assets/image_1697366710739_0.png)
